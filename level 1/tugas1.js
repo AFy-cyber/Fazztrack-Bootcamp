@@ -1,0 +1,10 @@
+console.log("Adnan Fadhil Yaser");
+console.log("19 Tahun");
+console.log("Perumahan Tamanwinangun, Kebumen");
+console.log("Gaming, membaca novel");
+console.log("SMA Negeri 1 Kebumen");
+console.log("Banyak kegunaannya");
+console.log("html,sql");
+console.log("pernah");
+console.log("mencari pekerjaan");
+console.log("Saya akan berjuang sampai akhir");
